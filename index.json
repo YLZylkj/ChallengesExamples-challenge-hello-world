@@ -1,0 +1,23 @@
+{
+    "title": "Challenge Template",
+    "description": "Basic template for a challenge",
+    "details": {
+        "intro": {
+            "text": "intro.md"
+        },
+        "steps": [
+            {
+                "title": "Bananas",
+                "text": "step1/text.md"
+            },
+            {
+                "title": "Apples",
+                "text": "step2/text.md"
+            }
+        ],
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "backend": {}
+}
